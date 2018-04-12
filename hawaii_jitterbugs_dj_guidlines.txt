@@ -1,0 +1,150 @@
+//add prose where appropriate
+
+Hawaii Jitterbugs DJ Guidlines
+
+Introduction
+This document is intended to be a set of basic guidelines for those who are interested in developing their skills as a DJ for swing dancing in our local scene (Honolulu).  As such, it is limited in its scope.  It is not meant to be a strict set of rules, nor to stifle anyone’s individual approach to selecting and playing music.  It is our hope that these guidelines will help novices in their efforts to begin exploring swing music.
+
+Music Selection
+-primarily big band swing music from the 30s and 40s
+-must have swung rhythms
+-avoid long drum solos, long bass solos
+
+Tempo Range
+-Lindy Hop sweet spot 130-160 bpm
+-Balboa sweet spot 180-210 bpm
+
+Genre of Music
+-primarily big band swing
+-primarily vintage
+-limited Gypsy Jazz, Blues, contemporary Jazz
+-exclude Pop, Latin, Soul, Funk
+
+Compiling a playlist
+-select at least twice as many songs as you need for the time allotted
+-be ready to substitute songs as need arises
+-include a variety of tempos and energy levels
+-consider the mood of the songs
+-how does each song flow from the one before and into the one after (tempo, mood, etc…)
+-never play a song you haven’t listened to all the way through
+
+Establishing Goals
+-get as many people dancing as often as possible
+-what time is your set (beginning, end, or middle of the night)
+-how far do you want to push the dancers (with tempo, duration, complexity, etc…)
+-how do you want the energy level to progress throughout your set
+-how will you make changes to your set list if things don’t go as planned
+
+Classic musicians to draw from
+-Benny Goodman
+-Chick Webb
+-Count Basie
+-Casa Loma Orchestra
+-Jack Teagarden
+-Lionel Hampton
+-Anita O’Day
+
+Other musicians to draw from
+-Artie Shaw
+-Fletcher Henderson
+-Jonathan Stout
+-Glen Miller
+-Duke Ellington
+-Ella Fitzgerald
+
+Iconic Swing Songs
+-playlist available at https://open.spotify.com/user/eclectosaurus/playlist/4qViPkJnSTu8rJjsk0No9l?si=kZt5p-gYR1eCS9H_Sqck9Q
+-Don’t Be That Way, Benny Goodman
+-King Porter Stomp, Benny Goodman
+-Jumpin’ at the Woodside, Count Basie
+-A Smooth One, Benny Goodman Sextet
+-You’re a Heavenly Thing, Benny Goodman and Helen Ward
+-Just You, Just Me, Benny Goodman
+-Betcha Nickel, Ella Fitzgerald and Her Famous Orchestra
+-Malady in F, Casa Loma Orchestra
+-Whoa Babe, Casa Loma Orchestra
+-I Hope Gabriel Likes My Music, Jack Teagarden
+-Drinkin’ Wine, Spo-Dee-O-Dee, Lionel Hampton
+-Hey Ba Ba Re Bop, Lionel Hampton
+-And Her Tears Flowed Like Wine, Stan Kenton and Anita O’Day
+-Massachusetts, Anita O’Day
+-Just a Little Bit South of North Carolina, Gene Krupa & His Orchestra
+
+Failsafe songs
+-playlist available at https://open.spotify.com/user/eclectosaurus/playlist/2IIBVgMLVXF0Qq1JLI02q8?si=4s7LGodRTt-VMU56NMt_Aw
+-Shiny Stockings, Ella Fitzgerald and Count Basie
+-Lavender Coffin, Lionel Hampton
+-Cole Slaw, Louis Jordan & His Tympany Five
+-Beyond the Sea, Bobby Darin
+-Joshua Fit De Battle of Jericho, Sidney Bechet
+
+Working with a Sound System
+-make sure the system works before you start your set
+-mute the channel you’re plugging into before connecting to or disconnecting from it
+-use channel volume (not master volume) 
+-adjusting highs down can cut a lot of hiss/static
+-adjusting mids higher can add more brightness/clarity
+-lows are usually set between 11 o’clock and 1 o’clock
+-if all the levels are adjusted in the same direction, reset the levels to baseline and use channel volume instead
+-start with computer/input volume set to 50%
+-input volume from user (computer/storage medium) affects the amount of information/data entering system, if too high then output will be clipped/missing sound
+-do a sound check prior to an event, determine volume/dead spots/etc.
+
+Dealing with audio feedback
+-before your set starts, zero every channel except the one you’re using
+
+Walking the floor
+-check volume levels and sound quality from multiple points on the floor
+
+Running the Dance
+
+Watching/Reading the floor
+-how many couples are dancing
+-how do people react to your song selection
+-who is or is not dancing (beginners, advanced dancers)
+-what style are people dancing (lindy, balboa, charleston)
+-what is the energy level of the room
+-what is the mood of the room
+-how can you affect the above conditions
+
+Breaks between songs
+-intentionally manage the gaps between songs
+
+Breaks for announcements
+-keep announcements brief and to the point
+-refer people to facebook/website/other media for details
+
+Birthday songs/Jams
+-have 2 or 3 songs at a mid-range tempo set aside for jams
+-combine birthday/out of towner jams, do only one jam per night
+
+Line Dances
+-keep a playlist of line dance songs, but only play them when that line dance is intended to result (playing a song associated with a line dance could inadvertently start one)
+-Franky Manning Shim Sham (T’aint What You Do, Tuxedo Junction, Shim Sham Song)
+-Dean Collins Shim Sham (Back Bay Shuffle)
+-Tranky Doo (The Dipsy Doodle)
+
+Mechanism for constructive criticism/guidance
+-ask people for feedback
+-suggestion box
+
+Requests
+-accommodate requests as long as they adhere to the general music guidelines
+-try not to disrupt the flow of your set list when adding in a request
+
+Evaluation/improvement
+-examine whether you accomplished your goals
+-keep track of how the floor reacts to your song selections
+
+Music acquisition
+-jazz-on-line.com
+
+Music organisation
+-take advantage of labelling, grouping features in music player software
+-consider changing labels/genres on music you buy
+
+Adding beats per minute
+-online tool for adding bpm found at https://www.all8.com/tools/bpm.htm
+
+
+
