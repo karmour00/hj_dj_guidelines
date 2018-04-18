@@ -5,6 +5,7 @@ Hawaii Jitterbugs DJ Guidlines
 Introduction
 This document is intended to be a set of basic guidelines for those who are interested in developing their skills as a DJ for swing dancing in our local scene (Honolulu).  As such, it is limited in its scope.  It is not meant to be a strict set of rules, nor to stifle anyone’s individual approach to selecting and playing music.  It is our hope that these guidelines will help novices in their efforts to begin exploring swing music.
 
+
 Music Selection
 
 Genre of Music
@@ -15,11 +16,11 @@ Genre of Music
 -exclude Pop, Latin, Soul, Funk
 -avoid long drum solos, long bass solos
 
-In the context of a swing dance, the music must have swung rhythms.  To get a sense of what this means, it may be helpful to listen to some of the song examples and musicians listed below.  Music should be primarily, but not necessarily entirely, big band swing music from the 30s and 40s.  Gypsy Jazz, Blues, and contemporary Jazz are not harshly discouraged, but should be played sparingly.  Genres such as Pop, Latin, Soul, Funk, etc… should not be played.
 
 Tempo Range
 -Lindy Hop sweet spot 130-160 bpm
 -Balboa sweet spot 180-210 bpm
+
 
 Compiling a playlist
 -select at least twice as many songs as you need for the time allotted
@@ -29,11 +30,6 @@ Compiling a playlist
 -how does each song flow from the one before and into the one after (tempo, mood, etc…)
 -never play a song you haven’t listened to all the way through
 
-When compiling a playlist, it is helpful to select many more songs than you will strictly need for the allotted time.  This is so that you can substitute songs as the need arises.  Be sure to include a variety of tempos and energy levels, and to consider the mood you’ll set with your selections.  
-
-Consider how each song flows from the one before and into the one after it, and don’t play a song that you haven’t listened to all the way through.
-
-If you’re just getting started familiarizing yourself with the music, you might start with a smaller playlist.  As your facility with selecting songs increases, you may feel more comfortable with a larger playlist or with selecting songs directly from your library.
 
 Establishing Goals
 -get as many people dancing as often as possible
@@ -42,12 +38,6 @@ Establishing Goals
 -how do you want the energy level to progress throughout your set
 -how will you make changes to your set list if things don’t go as planned
 
-Establishing goals prior to playing your set will help to guide you throughout the process, and to evaluate how well you’ve done when it’s over.  Getting as many dancing as often as possible is an admirable goal, but should not exist in isolation.  Consider, for example, the following questions, and how the answers might affect your goals.
-
-What time is your set (beginning, middle, or end of the night)?
-How far do you want to push the dancers (with tempo, duration, complexity, etc…)?
-How do you want the energy level to progress throughout your set?
-How will you make changes to your set list if things don’t go as planned?
 
 Classic musicians to draw from
 -Benny Goodman
@@ -110,9 +100,12 @@ Dealing with audio feedback
 Walking the floor
 -check volume levels and sound quality from multiple points on the floor
 
+
 Running the Dance
 
 Watching/Reading the floor
+
+
 -how many couples are dancing
 -how do people react to your song selection
 -who is or is not dancing (beginners, advanced dancers)
@@ -120,6 +113,9 @@ Watching/Reading the floor
 -what is the energy level of the room
 -what is the mood of the room
 -how can you affect the above conditions
+
+
+Other considerations when running the dance
 
 Breaks between songs
 -intentionally manage the gaps between songs
@@ -146,9 +142,11 @@ Requests
 -accommodate requests as long as they adhere to the general music guidelines
 -try not to disrupt the flow of your set list when adding in a request
 
+
 Evaluation/improvement
 -examine whether you accomplished your goals
 -keep track of how the floor reacts to your song selections
+
 
 Music acquisition
 -jazz-on-line.com
